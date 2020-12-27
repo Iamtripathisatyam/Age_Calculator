@@ -6,6 +6,8 @@
 
 _______________________________
 ### <h1 align="center">Smart **`AGE CALCULATOR`** Using `PYTHON`<h1/>
+_______________________________
+
 <h3 align="center">
   
 - This is one of my best project which I made in `4 Months`.
@@ -13,6 +15,8 @@ _______________________________
 - They will help you a lot in learning something new In python.
 
 </h3>
+_______________________________
+
 # PreRequisite:
                 ~ pip install python-dateutil
                 ~ pip install plyer
