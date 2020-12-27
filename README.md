@@ -7,8 +7,7 @@
 _______________________________
 ### <h1 align="center">Smart **`AGE CALCULATOR`** Using `PYTHON`<h1/>
 # PreRequisite:
-  
--    pip install python-dateutil
+                     - pip install python-dateutil
 
 
 _________________________________
