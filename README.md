@@ -8,7 +8,9 @@ _______________________________
 ### <h1 align="center">Smart **`AGE CALCULATOR`** Using `PYTHON`<h1/>
 # PreRequisite:
 <pre>
-- pip install prerequisite
+
+- pip install python-dateutil
+
 </pre>
 
 _________________________________
