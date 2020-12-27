@@ -5,7 +5,7 @@
 </p>
 
 _______________________________
-### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator"> **`Age Calculator`** </a>Using `PYTHON`<h1/>
+### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator">**`AGE CALCULATOR`**</a>Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
