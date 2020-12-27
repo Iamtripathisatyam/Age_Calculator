@@ -15,7 +15,7 @@ _______________________________
                2. from datetime import datetime
                3. from time import strptime
                4. from plyer import notification
-               5. **import os**
+               5. ** import os **
 
 _________________________________
 
