@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/accessories-calculator-icon.png" />
+</p>
+
+<p align="center">
 <img src="https://forthebadge.com/images/badges/for-you.svg" />
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
