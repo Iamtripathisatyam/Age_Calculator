@@ -23,11 +23,13 @@ _______________________________
                 ~ pip install plyer
              
 # Module Needed:
-               > from dateutil.relativedelta import relativedelta
-               > from datetime import datetime
-               > from time import strptime
-               > from plyer import notification
-               > import os 
+```python 
+               from dateutil.relativedelta import relativedelta
+               from datetime import datetime
+               from time import strptime
+               from plyer import notification
+               import os 
+```
 
 _________________________________
 
