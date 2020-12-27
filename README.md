@@ -20,8 +20,8 @@ _______________________________
 
 # PreRequisite:
 ```python
-                 pip install python-dateutil
-                 pip install plyer
+                 ~ pip install python-dateutil
+                 ~ pip install plyer
 ```
              
 # Module Needed:
