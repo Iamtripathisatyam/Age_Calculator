@@ -19,16 +19,18 @@ _______________________________
 _______________________________
 
 # PreRequisite:
+```python
                 ~ pip install python-dateutil
                 ~ pip install plyer
+```
              
 # Module Needed:
 ```python 
-               from dateutil.relativedelta import relativedelta
-               from datetime import datetime
-               from time import strptime
-               from plyer import notification
-               import os 
+              from dateutil.relativedelta import relativedelta
+              from datetime import datetime
+              from time import strptime
+              from plyer import notification
+              import os 
 ```
 
 _________________________________
