@@ -10,7 +10,12 @@ _______________________________
                 ~ pip install python-dateutil
                 ~ pip install plyer
              
-
+# Module Needed:
+               1. from dateutil.relativedelta import relativedelta
+               2. from datetime import datetime
+               3. from time import strptime
+               4. from plyer import notification
+               5.  import os
 
 _________________________________
 
