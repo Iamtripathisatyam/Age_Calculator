@@ -8,6 +8,10 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Age_Calculator}/count.svg" alt=Iamtripathisatyam />
+</p>
+
 _______________________________
 ### <h1 align="center">Smart <a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator">**`AGE CALCULATOR`**</a>Using `PYTHON`<h1/>
 _______________________________
@@ -65,7 +69,6 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
