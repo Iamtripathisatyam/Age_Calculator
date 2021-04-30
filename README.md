@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Age_Calculator?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/accessories-calculator-icon.png" />
+<a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/accessories-calculator-icon.png" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="https://profile-counter.glitch.me/{Age_Calculator}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://img.shields.io/badge/-AGE CALCULATOR USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://img.shields.io/badge/-AGE CALCULATOR-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
   
 ### Prerequisite:
 ```python
