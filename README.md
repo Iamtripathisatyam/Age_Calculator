@@ -17,12 +17,8 @@
   <img src="https://profile-counter.glitch.me/{Age_Calculator}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-_______________________________
-
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://img.shields.io/badge/-AGE CALCULATOR USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
   
-_______________________________
-
 ### Prerequisite:
 ```python
         ~ pip install python-dateutil
