@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Age_Calculator?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/128/accessories-calculator-icon.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator.py"><img src="https://cutt.ly/eblc9pj" /></a>
 </p>
 
 <p align="center">
