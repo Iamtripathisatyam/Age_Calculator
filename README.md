@@ -51,10 +51,5 @@
 _________________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
-  
-<p align="center">
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Age_Calculator?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-</p>
-    
+ 
 <p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
