@@ -14,3 +14,6 @@
 ```python
 pip install pywebio
 ```
+
+_____________________
+<p>&copy; 2021 Satyam Tripathi</p>
